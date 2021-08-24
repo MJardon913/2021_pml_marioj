@@ -4,4 +4,4 @@ Este es mi repositorio de la clase de machine learning en python
 Voy a guardar aquí 
   * Jupyter Notebooks
   * Datos
-  * Guardar cambios
+  * Proyectos de clase
